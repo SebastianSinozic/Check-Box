@@ -1,0 +1,10 @@
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\bin\Debug\kostroEugenVjezba.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\bin\Debug\kostroEugenVjezba.exe
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\bin\Debug\kostroEugenVjezba.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.Form1.resources
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.Properties.Resources.resources
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.csproj.GenerateResource.cache
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.exe
+C:\Users\Učenik 12\source\repos\kostroEugenVjezba\kostroEugenVjezba\obj\Debug\kostroEugenVjezba.pdb
